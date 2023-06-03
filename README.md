@@ -1,19 +1,6 @@
 # YachthafenResort
 
-## Project setup
-```
-npm install
-```
+# Video:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://github.com/viktor900221/YachthafenResort/assets/79362660/ad0f3dcb-bd04-48c2-993a-d5dd8d926466
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

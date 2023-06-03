@@ -25,7 +25,7 @@ Firebase mit Unterstützung für NOSQL
 - Laden Sie das Yachthafen Resort-ZIP-Archiv herunter oder klonen Sie das Projekt aus dem GitHub-Repository.
 - Entpacken Sie das Archiv und öffnen Sie das Hauptverzeichnis des Projekts.
 - Stellen Sie sicher, dass eine geeignete Datenbank vorhanden ist und die Verbindungsinformationen vorliegen.
-- Konfigurieren Sie die Datenbankverbindung, indem Sie die entsprechenden Einstellungen in der Konfigurationsdatei (config.js) anpassen.
+- Konfigurieren Sie die Datenbankverbindung, indem Sie die entsprechenden Einstellungen in der Ordner "firebase" (index.js) anpassen.
 - Öffnen Sie eine Kommandozeile im Hauptverzeichnis des Projekts und führen Sie den Befehl npm install aus, um alle erforderlichen Abhängigkeiten zu installieren.
 - Führen Sie den Befehl npm run setup aus, um die Datenbanktabellen zu erstellen und Beispielplatzdaten zu initialisieren.
 - Starten Sie die Anwendung, indem Sie den Befehl npm run serve ausführen.

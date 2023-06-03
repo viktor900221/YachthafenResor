@@ -1,4 +1,4 @@
-# YachthafenResort
+# YachthafenResort (Vue.js + Firebase)
  ## Inhaltsverzeichnis
 - Einleitung
 - Systemanforderungen
